@@ -1,0 +1,54 @@
+{
+  "MainHorizontalScrollViewOne": [
+    {
+      "id": 1,
+      "name": "Movie 1",
+      "imageUrl": "https://raw.githubusercontent.com/Devlop3rHardik/MovieHub/main/IMG/alex-moliski-y3Apwt4zwNA-unsplash.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Movie 2",
+      "imageUrl": "https://raw.githubusercontent.com/Devlop3rHardik/MovieHub/main/IMG/angel-sanchez-KaQ28x4gEFM-unsplash.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Movie 3",
+      "imageUrl": "https://raw.githubusercontent.com/Devlop3rHardik/MovieHub/main/IMG/danis-lou-Lc2EIgwh1RA-unsplash.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Movie 4",
+      "imageUrl": "https://raw.githubusercontent.com/Devlop3rHardik/MovieHub/main/IMG/harrison-steen-ck2D9pxRbTo-unsplash.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Movie 5",
+      "imageUrl": "https://github.com/Devlop3rHardik/MovieHub/blob/main/IMG/joshua-kettle-l2rCjSLgBPw-unsplash.jpg?raw=true"
+    },
+    {
+      "id": 6,
+      "name": "Movie 6",
+      "imageUrl": "https://github.com/Devlop3rHardik/MovieHub/blob/main/IMG/matt-pictures-SXAKnps_AyA-unsplash.jpg?raw=true"
+    },
+    {
+      "id": 7,
+      "name": "Movie 7",
+      "imageUrl": "https://github.com/Devlop3rHardik/MovieHub/blob/main/IMG/paulius-dragunas-M2UXVaLlfds-unsplash.jpg?raw=true"
+    },
+    {
+      "id": 8,
+      "name": "Movie 8",
+      "imageUrl": "https://raw.githubusercontent.com/Devlop3rHardik/MovieHub/main/IMG/hennie-stander-BtHtZsGvdD0-unsplash.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Movie 9",
+      "imageUrl": "https://raw.githubusercontent.com/Devlop3rHardik/MovieHub/main/IMG/ivanna-vinnicsuk-XoSzdzO2bJo-unsplash.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Movie 10",
+      "imageUrl": "https://raw.githubusercontent.com/Devlop3rHardik/MovieHub/main/IMG/jigar-panchal-Z14uh3OxUig-unsplash.jpg"
+    }
+  ]
+}
